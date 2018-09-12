@@ -20,3 +20,5 @@ Non-repudiation         |  No  |    No     |   Yes
 Kind of keys            | none | symmetric | asymmetric
                         |      |    keys   |    keys
 Please remember that authentication without confidence in the keys used is useless. For digital signatures, a recipient must be confident that the verification key actually belongs to the sender. For MACs, a recipient must be confident that the shared symmetric key has only been shared with the sender.
+
+https://crypto.stackexchange.com/questions/5646/what-are-the-differences-between-a-digital-signature-a-mac-and-a-hash?newreg=90481a425fb14ff0a7250cde651e77e8
